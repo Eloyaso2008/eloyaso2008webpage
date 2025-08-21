@@ -19,6 +19,13 @@ hr{
     color: white;
 }
 
+table{
+    border: solid blue 10px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5%;
+}
+
 .tituloH2{
     border: solid black 5px;
     border-radius: 10px;
