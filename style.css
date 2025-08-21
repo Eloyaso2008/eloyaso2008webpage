@@ -19,11 +19,16 @@ hr{
     color: white;
 }
 
-table{
+.table1{
     border: solid blue 10px;
     border-radius: 10px;
     padding: 5px;
     margin-top: 5%;
+}
+
+.music{
+    border: solid black 10px;
+    border-radius: 10px;
 }
 
 .tituloH2{
@@ -67,6 +72,8 @@ table{
 
 .acerca{
     color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 
 .textoFinal{
